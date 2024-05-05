@@ -1,0 +1,65 @@
+.main {
+  background-color: black;
+}
+h3 {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.download .text {
+  color: inherit;
+}
+
+.download .text:hover {
+  color: forestgreen;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding-top: 30px;
+}
+
+.description-guide {
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+  text-align: center;
+}
+
+.guide-img {
+  display: flex;
+  justify-content: center;
+}
+
+.release-phone-img {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+
+.footer-logo {
+  font-family: Verdana;
+  color: grey;
+  text-align: right;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.footer-logo i {
+  margin-right: 10px;
+  font-size: 20px;
+}
